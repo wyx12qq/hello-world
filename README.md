@@ -1,4 +1,4 @@
-# 你好，世界1
+hello-world
 ============
 
 My first repository on Github!
